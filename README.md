@@ -1,6 +1,6 @@
 # Estudo Dirigido 1.1 - Programação Orientada a Objetos
 
-Universidade Tuiuti do Paraná
+Pontifícia Universidade Católica do Paraná
 
 ## Integrante
 
@@ -14,7 +14,7 @@ instanciação de objetos, métodos e conceitos iniciais de Programação Orient
 ## Estrutura
 
 programacao-oo/
-└── src/
+├── src/
 ├── questao01/ Pessoa
 ├── questao02/ Relogio
 ├── questao03/ Data
