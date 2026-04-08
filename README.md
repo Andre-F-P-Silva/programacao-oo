@@ -1,47 +1,37 @@
-# 💻 Programação Orientada a Objetos em Dart
+# Estudo Dirigido 1.1 - Programação Orientada a Objetos
 
-Este repositório contém a resolução de uma lista de exercícios da disciplina de Programação Orientada a Objetos utilizando a linguagem Dart.
+Pontifícia Universidade Católica do Paraná 
 
----
+## Integrante
 
-## 📚 Conteúdos abordados
+- André Felipe Passos da Silva
 
-* Classes e objetos
-* Encapsulamento
-* Construtores
-* Validação de dados
-* Métodos e lógica de negócios
-* Composição de objetos
-* Simulações (lâmpada, cofrinho, semáforo, combate, etc.)
+## Descrição
 
----
+Exercícios práticos sobre criação de classes em Java com foco em construtores,
+instanciação de objetos, métodos e conceitos iniciais de Programação Orientada a Objetos.
 
-## 📁 Estrutura do projeto
+## Estrutura
 
-Cada pasta dentro de `lib/` representa uma questão da lista:
-
-```bash
-lib/
-  questao01/
-  questao02/
-  ...
-  questao20/
-```
-
----
-
-## 🚀 Tecnologias utilizadas
-
-* Dart
-
----
-
-## 👨‍💻 Autor
-
-André Felipe Passos da Silva
-
----
-
-## 📌 Observação
-
-Este projeto foi desenvolvido com fins educacionais para prática de conceitos de Programação Orientada a Objetos.
+programacao-oo/
+└── src/
+├── questao01/ Pessoa
+├── questao02/ Relogio
+├── questao03/ Data
+├── questao04/ Lampada
+├── questao05/ Aluno
+├── questao06/ Produto
+├── questao07/ Contador
+├── questao08/ Endereco
+├── questao09/ Pessoa e Endereco
+├── questao10/ Quadrado
+├── questao11/ Triangulo
+├── questao12/ Circulo
+├── questao13/ Pedido
+├── questao14/ Carro e Motor
+├── questao15/ Cofrinho
+├── questao16/ Personagem
+├── questao17/ Semaforo
+├── questao18/ Playlist e Musica
+├── questao19/ Casa e Comodo
+└── questao20/ Pokemon e Treinador
