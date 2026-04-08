@@ -1,6 +1,6 @@
 # Estudo Dirigido 1.1 - Programação Orientada a Objetos
 
-Pontifícia Universidade Católica do Paraná
+Universidade Tuiuti do Paraná
 
 ## Integrante
 
